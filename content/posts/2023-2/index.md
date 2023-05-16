@@ -42,7 +42,8 @@ draft: false
 Office
 
 * [Office4件套](https://otp.landian.vip/zh-cn/download.html)
-  * ①部署②安装许可证
+  * ①部署
+  ②安装许可证
   ③安装
   [密钥](https://learn.microsoft.com/en-us/deployoffice/vlactivation/gvlks)
   ④设置
