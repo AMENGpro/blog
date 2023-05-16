@@ -42,7 +42,12 @@ draft: false
 Office
 
 * [Office4件套](https://otp.landian.vip/zh-cn/download.html)
-  * ①部署②安装许可证③安装密钥④设置KMS主机地址⑤激活
+  * ①部署②安装许可证
+  ③安装
+  [密钥](https://learn.microsoft.com/en-us/deployoffice/vlactivation/gvlks)
+  ④设置
+  [KMS主机地址](https://www.coolhub.top/tech-articles/kms_list.html)
+  ⑤激活
   * word关闭智能段落选择：文档-选项-高级-智能段落选择，取消勾选
 
 * [WPS](https://www.wps.cn/)
