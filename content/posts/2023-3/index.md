@@ -2,10 +2,7 @@
 title: "终端代理设置"
 date: 2023-05-03T00:00:00+08:00
 draft: false
-authors: ["zhyoch"]
-tags: [Bash,CMD,Git,Linux,PowerShell,Proxy,Windows,ZSH]
-featuredImagePreview: "/2020-1/featuredImagePreview.svg"
-summary: Git, Linux 与 Windows 的终端代理设置。
+authors: ["阿猛"]
 ---
 
 ## CMD

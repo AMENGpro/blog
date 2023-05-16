@@ -2,6 +2,7 @@
 title: "Windows自用设置"
 date: 2023-05-02T00:00:00+08:00
 draft: false
+authors: ["阿猛"]
 ---
 
 ## Windows下载与激活
